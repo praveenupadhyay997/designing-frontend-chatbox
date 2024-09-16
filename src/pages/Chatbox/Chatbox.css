@@ -1,0 +1,9 @@
+.Main-ChatBox {
+  padding: 1.5rem;
+  position: relative;
+}
+
+.chatbox-input-wrapper {
+  position: absolute;
+  bottom: 0;
+}
