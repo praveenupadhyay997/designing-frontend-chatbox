@@ -1,0 +1,12 @@
+.welcome-card {
+  background-color: #ffc8dd;
+  padding: 5rem;
+  border-radius: 1rem;
+  border: 2px solid black;
+  transition: background-color 0.3s ease-in;
+}
+
+.welcome-card:hover {
+  background-color: #bde0fe;
+  cursor: pointer;
+}
